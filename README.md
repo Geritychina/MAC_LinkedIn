@@ -13,6 +13,6 @@ Includes: <br>
 
 📌 Power BI visualization <br>
 
-📍All right belong to the author! 
+📍All right belong to the author of the cource work! 
 
 Made with love by Gergana &trade;
